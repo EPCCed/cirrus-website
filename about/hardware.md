@@ -8,7 +8,7 @@ SGI/HPE 8600 Cluster
 --------------------
 
 The Cirrus compute provision consists of 282 compute nodes connected
-together by a single Infiniband fabric. 280 of these are standard 
+together by a single Infiniband fabric. 280 of these are standard
 compute nodes and 2 of these contain 4 GPU accelerators.
 
 There are 3 login nodes that share a common software environment and
@@ -20,7 +20,7 @@ file system with the compute nodes.
 
 Cirrus standard compute nodes each contain two 2.1 GHz, 18-core Intel Xeon
 E5-2695 (Broadwell) series processors. Each of the cores in these
-processors support 2 hardware threads (Hyperthreads), which are enabled
+processors support 2 hardware threads (Hyperthreads), however these are disabled
 by default.
 
 The standard compute nodes on Cirrus have 256 GB of memory shared between the two
@@ -36,14 +36,11 @@ There are three levels of cache, configured as follows:
 -   L3 Cache 45 MiB (shared)
 
 There are 280 standard compute nodes on Cirrus giving a total of 10,080 cores.
-When employing hyperthreads, the core count doubles to 20,160.
 
 #### GPU compute nodes
 
 The Cirrus GPU compute nodes each contain two 2.4 GHz, 20-core Intel Xeon Gold
-6148 (Skylake) series processers. Each of the cores in these
-processors support 2 hardware threads (Hyperthreads), which are enabled
-by default. The nodes also each contain four NVIDIA Tesla V100-PCIE-16GB
+6148 (Skylake) series processors. The nodes also each contain four NVIDIA Tesla V100-PCIE-16GB
 (Volta) GPU accelerators connected to the host processors and each other
 via PCIe.
 
@@ -105,4 +102,3 @@ please see the description on Wikipedia:
 
 The default striping on the Lustre filesystem is 1 stripe, and the
 default stripe size is 1 MiB.
-
