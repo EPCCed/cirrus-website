@@ -94,8 +94,10 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
-| [Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/230222-mpi/) |	[Imperial College London](https://www.archer2.ac.uk/training/locations/imperial) |	22 - 24 February 2023 10:00 - 17:30 (Day 1 and 2) 10:00 - 15:00 (Day 3) |	[Register](https://www.archer2.ac.uk/training/register/?course=230222-mpi) |
-
+| [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/230330-data-analysis-python/) 	 | 	Online 	| 30 - 31 March 2023 09:30 - 17:00 BST | [Join waiting list](https://www.archer2.ac.uk/training/register/?course=230330-data-analysis-python) |
+| [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/230411-data-scientists/) 	 | 	Online |	11 April 2023 10:00 - 17:30 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230411-data-scientists) |
+| [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230411-hpc-carpentry/) 	 | 	[The Glassroom, Edinburgh Napier University (Merchiston campus) ](https://www.archer2.ac.uk/training/locations/napier-merchiston)	| 11 - 12 April 2023 09:30 - 16:00 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230411-hpc-carpentry) |
+| [Data Carpentry](https://www.archer2.ac.uk/training/courses/230424-data-carpentry/) 	 | 	Online |	24th - 27th April 2023 09:30 - 13:00 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230424-data-carpentry) |
 
 <br>
 See [all upcoming ARCHER2 training](https://www.archer2.ac.uk/training/#upcoming-training)
