@@ -1,6 +1,13 @@
 /* your styles go here */
 /* Example site test */
 
+p.frontpage {
+    width: 100%;
+    padding-bottom: 50px;
+    font-size: 150%;
+    text-align: center;
+}
+
 .box-image-text .image {
     min-height: 190px;
     max-height: 190px;

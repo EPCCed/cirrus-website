@@ -25,6 +25,12 @@ pluralizelisttitles = false
     logo = "img/cirrus-small.png"
     style = "cirrus"
 
+    about_us = "<p>EPCC provides world-class supercomputing and data services and facilities for science and business.</p>"
+    copyright = "Copyright (c) 2025, EPCC; all rights reserved."
+
+    contact_url = ""
+    address = "<p>support@cirrus.ac.uk</p>"
+
 #########################
 # Top level website menu
 #########################
@@ -123,3 +129,10 @@ pluralizelisttitles = false
     auto_play = false
     slide_speed = 2000
     pagination_speed = 1000
+
+[params.features]
+    enable = true
+    text = """
+    Cirrus is a state of the art HPC system hosted by <a href='https://www.epcc.ed.ac.uk/' alt='EPCC website'>EPCC</a> that provides an ideal platform for users in academia and industry to solve their computational, simulation, modelling, and data science challenges.
+    """
+    cols = 3 # Default: 3, Available values 2,3,4,6
