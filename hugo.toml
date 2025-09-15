@@ -65,24 +65,24 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Support and Access"
     identifier = "menu.support"
-    url        = ""
+    url        = "/support-access/"
     weight     = 2
 
 [[menu.main]]
     name       = "Service Status"
-    url        = ""
+    url        = "/support-access/status/"
     weight     = 1
     parent     = "menu.support"
 
 [[menu.main]]
     name       = "Get Access to Cirrus"
-    url        = ""
+    url        = "/support-access/access/"
     weight     = 2
     parent     = "menu.support"
 
 [[menu.main]]
     name       = "User Support"
-    url        = ""
+    url        = "/support-access/user-support/"
     weight     = 3
     parent     = "menu.support"
 
