@@ -1,8 +1,125 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cirrus'
 theme = 'universal'
+
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+
+# number of words of summarized post content (default 70)
+summaryLength = 70
+
+# not pluralize title pages by default
+pluralizelisttitles = false
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# Define the number of posts per page
+[pagination]
+    pagerSize = 10
+
+[params]
+    dropdown_mouse_over = false
+    logo = "img/cirrus-small.png"
+    style = "cirrus"
+
+#########################
+# Top level website menu
+#########################
+# About menu
+[menu]
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.about"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "Hardware and Software"
+    url        = ""
+    weight     = 1
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Service Policies"
+    url        = ""
+    weight     = 2
+    parent     = "menu.about"
+
+# Support menu
+[[menu.main]]
+    name       = "Support and Access"
+    identifier = "menu.support"
+    url        = ""
+    weight     = 2
+
+[[menu.main]]
+    name       = "Service Status"
+    url        = ""
+    weight     = 1
+    parent     = "menu.support"
+
+[[menu.main]]
+    name       = "Get Access to Cirrus"
+    url        = ""
+    weight     = 2
+    parent     = "menu.support"
+
+# Documentation menu
+[[menu.main]]
+    name       = "Documentation"
+    identifier = "menu.documentation"
+    url        = ""
+    weight     = 3
+
+[[menu.main]]
+    name       = "Cirrus Documentation"
+    url        = ""
+    weight     = 1
+    parent     = "menu.documentation"
+
+[[menu.main]]
+    name       = "SAFE Documentation"
+    url        = ""
+    weight     = 2
+    parent     = "menu.documentation"
+
+# Research menu
+[[menu.main]]
+    name       = "Research"
+    identifier = "menu.research"
+    url        = ""
+    weight     = 4
+
+[[menu.main]]
+    name       = "Case Studies"
+    url        = ""
+    weight     = 1
+    parent     = "menu.research"
+
+
+[[menu.main]]
+    name       = "Technical Reports"
+    url        = ""
+    weight     = 1
+    parent     = "menu.research"
+
+# Industry menu
+[[menu.main]]
+    name       = "Industry"
+    identifier = "menu.industry"
+    url        = ""
+    weight     = 5
+
+#########################
+# Top level carousel setup
+#########################
+[params.carouselHomepage]
+    # All carousel items are defined in their own files
+    # at 'data/carousel'.
+    enable = true
+    auto_play = false
+    slide_speed = 2000
+    pagination_speed = 1000
