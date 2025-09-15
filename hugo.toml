@@ -23,6 +23,7 @@ pluralizelisttitles = false
 [params]
     dropdown_mouse_over = false
     logo = "img/cirrus-small.png"
+    logo_small = "img/cirrus-icon.png"
     style = "cirrus"
 
     about_us = "<p>EPCC provides world-class supercomputing and data services and facilities for science and business.</p>"
@@ -77,6 +78,12 @@ pluralizelisttitles = false
     name       = "Get Access to Cirrus"
     url        = ""
     weight     = 2
+    parent     = "menu.support"
+
+[[menu.main]]
+    name       = "User Support"
+    url        = ""
+    weight     = 3
     parent     = "menu.support"
 
 # Documentation menu
