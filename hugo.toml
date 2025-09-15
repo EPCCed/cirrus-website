@@ -39,19 +39,25 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "About"
     identifier = "menu.about"
-    url        = "/"
+    url        = "/about/"
     weight     = 1
 
 [[menu.main]]
-    name       = "Hardware and Software"
-    url        = ""
+    name       = "Overview"
+    url        = "/about/"
     weight     = 1
     parent     = "menu.about"
 
 [[menu.main]]
-    name       = "Service Policies"
-    url        = ""
+    name       = "Hardware and Software"
+    url        = "/about/hardware-software/"
     weight     = 2
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Service Policies"
+    url        = "/about/policies/"
+    weight     = 3
     parent     = "menu.about"
 
 # Support menu
