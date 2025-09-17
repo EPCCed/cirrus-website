@@ -146,6 +146,11 @@ pluralizelisttitles = false
 [params.features]
     enable = true
     text = """
+    <div class="description">
+    <p class="frontpage">
+    <img class='front-logos' src='img/logo-set.png' alt='Logos' />
     Cirrus is a state of the art HPC system hosted by <a href='https://www.epcc.ed.ac.uk/' alt='EPCC website'>EPCC</a> that provides an ideal platform for users in academia and industry to solve their computational, simulation, modelling, and data science challenges.
+    </p>
+    </div>
     """
     cols = 3 # Default: 3, Available values 2,3,4,6

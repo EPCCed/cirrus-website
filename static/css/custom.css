@@ -1,11 +1,25 @@
 /* your styles go here */
 /* Example site test */
 
+div.description {
+  width: 100%;
+  height: 300px;
+  display: block;
+  clear: both;
+}
+
+img.front-logos {
+  display: block;
+  float: left;
+  height: 250px;
+  padding-right: 50px;
+}
+
 p.frontpage {
     width: 100%;
     padding-bottom: 50px;
     font-size: 150%;
-    text-align: center;
+    text-align: left;
 }
 
 .box-image-text .image {

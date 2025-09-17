@@ -4,9 +4,8 @@
 {{ if gt (len .Site.Data.features) 0 }}
 <section class="bar background-white">
     <div class="container">
-        <p class="frontpage">
-            {{ .Site.Params.features.text | safeHTML }}
-        </p>
+        
+        {{ .Site.Params.features.text | safeHTML }}
         
         {{ $elements := default 3 .Site.Params.features.cols }}
         {{ $features := sort .Site.Data.features "weight" }}
