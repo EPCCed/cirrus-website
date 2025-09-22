@@ -4,20 +4,6 @@ title: Cirrus Service Status
 summary: Up to date status of the Cirrus service
 ---
 
-&nbsp;
-
-## Full system power down
-
-Friday 29th August 2025  09:00 - Thursday 18th September 18:00
-
-Due to a significant Health and Safety risk, associated with our power supply to the site, action is required at the Advanced Computing Facility (ACF). There will be a full power outage to the site during this period. Specialised external contractors will be working on a 24/7 basis for the outage period replacing switchgear. 
-
-**Users will not be able to connect to Cirrus and will not be able to access data on any of the Cirrus file systems. The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the Cirrus website will be available.**
-
-
-----------
-
-
 - [Current System Load](#current-system-load)
 - [Known Issues](#known-issues)
 - [Current Issues](#service-alerts)
@@ -37,9 +23,6 @@ A description of each of the status types is provided below the plot.
 ### CPU
 
 ![Cirrus Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus.png)
-{: style="width=80%" align="center"
-alt="Cirrus Node Status over time" 
-title="Cirrus Node Status over time"}
 
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
@@ -49,9 +32,6 @@ title="Cirrus Node Status over time"}
 
 ### GPU
 ![Cirrus GPU Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_gpu.png)
-{: style="width=80%" align="center"
-alt="Cirrus Node Status over time" 
-title="Cirrus Node Status over time"}
 
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
@@ -67,57 +47,7 @@ We are experiening a heavy load on the metadata server. Our systems team are inv
 
 ## Service Alerts
 
-
-{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status == 'Ongoing'" %}
-{% for alert in current_alerts reversed %}
-    {% if forloop.first == true %}
-
-  <table>
-    <thead>
-      <tr>
-        <th>Status</th>
-        <th>Type</th>
-        <th>Start</th>
-        <th>End</th>
-        <th>Scope</th>
-        <th>User Impact</th>
-        <th>Reason</th>
-      </tr>
-    </thead>
-    <tbody>
-    {% endif %}
-      <tr>
-      <td>
-        {{ alert.status }}
-      </td>
-      <td>
-        {{ alert.type }}
-      </td>
-      <td>
-        {{ alert.start_date | date: "%Y-%m-%d %H:%M" }}
-      </td>
-      <td>
-        {{ alert.end_date | date: "%Y-%m-%d %H:%M" }}
-      </td>
-      <td>
-        {{ alert.scope }}
-      </td>
-      <td>
-        {{ alert.impact }}
-      </td>
-      <td>
-        {{ alert.reason }}
-      </td>
-     </tr>
-    {% if forloop.last == true %}
-    </tbody>
-  </table>
-
-    {% endif %}
-{% else %}
-<p>No current service alerts</p>
-{% endfor %}
-
+TBD
  
 
 ## Recently Resolved Service Alerts
@@ -125,62 +55,7 @@ We are experiening a heavy load on the metadata server. Our systems team are inv
 This table lists resolved service alerts from the past 30 days. 
 [A full list of historical resolved service alerts is available](history/alerts).
 
-{% assign resolved_alerts = site.alerts | where_exp: "alert", "alert.status == 'Resolved'" %}
-{% assign date_now = "now" | date: "%s" %}
-{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
-{% assign count = 0 %}
-{% for alert in resolved_alerts reversed %}
-    {% assign ed = alert.end_date | date: "%s" %}
-    {% if ed > date_thresh %}
-        {% if count == 0 %}
-
-  <table >
-    <thead>
-      <tr>
-        <th>Status</th>
-        <th>Type</th>
-        <th>Start</th>
-        <th>End</th>
-        <th>Scope</th>
-        <th>User Impact</th>
-        <th>Reason</th>
-      </tr>
-    </thead>
-    <tbody>
-        {% endif %}
-      <tr>
-      <td>
-        {{ alert.status }}
-      </td>
-      <td>
-        {{ alert.type }}
-      </td>
-      <td>
-        {{ alert.start_date | date: "%Y-%m-%d %H:%M"  }}
-      </td>
-      <td>
-        {{ alert.end_date | date: "%Y-%m-%d %H:%M"  }}
-      </td>
-      <td>
-        {{ alert.scope }}
-      </td>
-      <td>
-        {{ alert.impact }}
-      </td>
-      <td>
-        {{ alert.reason }}
-      </td>
-      </tr>
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-{% if count > 0 %}
-    </tbody>
-  </table>
-{% else %}
-<p>No recent service alerts</p>
-{% endif %}
-
+TBD
 
 ## Cirrus Service end
 
@@ -189,68 +64,7 @@ The EPSRC funding for the Cirrus service ended on 31st March 2025. EPCC plan on 
 
 ## Service Calendar and Maintenance
 
-
-This section lists recent and upcoming maintenance sessions. 
-[A full list of past maintenance sessions is available](history/maintenance).
-
-{% assign date_now = "now" | date: "%s" %}
-{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
-{% assign count = 0 %}
-{% for maint in site.maintenance reversed %}
-    {% assign sd = maint.start_date | date: "%s" %}
-    {% if sd > date_thresh %}
-        {% if count == 0 %}
-<div class="table-responsive">
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Status</th>
-        <th>Type</th>
-        <th>Start</th>
-        <th>End</th>
-        <th>Scope</th>
-        <th>User Impact</th>
-        <th>Reason</th>
-      </tr>
-    </thead>
-    <tbody>
-        {% endif %}
-      <tr>
-      <td>
-        {{ maint.status }}
-      </td>
-      <td>
-        {{ maint.type }}
-      </td>
-      <td>
-        {{ maint.start_date   }}
-      </td>
-      <td>
-        {{ maint.end_date   }}
-      </td>
-      <td>
-        {{ maint.system }}
-      </td>
-      <td>
-        {{ maint.impact }}
-      </td>
-      <td>
-        {{ maint.reason }}
-      </td>
-      </tr>
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-{% if count > 0 %}
-    </tbody>
-  </table>
-</div>
-{% else %}
-<p>No scheduled or recent maintenance sessions</p>
-{% endif %}
-
-
-
+TBD
 
 ## Maintenance Logs for previous periods
 

@@ -90,18 +90,18 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Documentation"
     identifier = "menu.documentation"
-    url        = ""
+    url        = "/docs/"
     weight     = 3
 
 [[menu.main]]
     name       = "Cirrus Documentation"
-    url        = ""
+    url        = "/docs/cirrus-docs/"
     weight     = 1
     parent     = "menu.documentation"
 
 [[menu.main]]
     name       = "SAFE Documentation"
-    url        = ""
+    url        = "https://epcced.github.io/safe-docs/"
     weight     = 2
     parent     = "menu.documentation"
 
@@ -109,27 +109,14 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Research"
     identifier = "menu.research"
-    url        = ""
+    url        = "/research/"
     weight     = 4
-
-[[menu.main]]
-    name       = "Case Studies"
-    url        = ""
-    weight     = 1
-    parent     = "menu.research"
-
-
-[[menu.main]]
-    name       = "Technical Reports"
-    url        = ""
-    weight     = 1
-    parent     = "menu.research"
 
 # Industry menu
 [[menu.main]]
     name       = "Industry"
     identifier = "menu.industry"
-    url        = ""
+    url        = "/industry/"
     weight     = 5
 
 #########################
@@ -147,8 +134,8 @@ pluralizelisttitles = false
     enable = true
     text = """
     <div class="description">
-    <p class="frontpage">
     <img class='front-logos' src='img/logo-set.png' alt='Logos' />
+    <p class="frontpage">
     Cirrus is a state of the art HPC system hosted by <a href='https://www.epcc.ed.ac.uk/' alt='EPCC website'>EPCC</a> that provides an ideal platform for users in academia and industry to solve their computational, simulation, modelling, and data science challenges.
     </p>
     </div>
