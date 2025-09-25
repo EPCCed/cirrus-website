@@ -1,0 +1,40 @@
+{{/* We must sort first to convert a map into a list so we can filter */}}
+{{ $all_maint := sort .Site.Data.maintenance "start_date" "desc" }}
+{{/* Date-time formats always specified using this particular date-time */}}
+{{ $time_format := "2006-01-02 15:04" }}
+{{ if $all_maint }}
+    <table class="table table-dark table-striped table-bordered">
+        <tr>
+            <th>Status</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Scope</th>
+            <th>Impact</th>
+            <th>Reason</th>
+        </tr>
+    {{ range $all_maint }}
+    <tr>
+        <td>
+            {{ .status }}
+        </td>
+        <td>
+            {{ .start_date| time.Format $time_format }}
+        </td>
+        <td>
+            {{ .end_date | time.Format $time_format }}
+        </td>
+        <td>
+            {{ .scope | safeHTML }}
+        </td>
+        <td>
+            {{ .impact | safeHTML }}
+        </td>
+        <td>
+            {{ .reason | safeHTML }}
+        </td>
+    </tr>
+    {{ end }}
+</table>
+{{ else }}
+   No service alerts
+{{ end }}
