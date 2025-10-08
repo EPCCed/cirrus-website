@@ -29,7 +29,6 @@ pluralizelisttitles = false
     about_us = "<p>EPCC provides world-class supercomputing and data services and facilities for science and business.</p>"
     copyright = "Copyright (c) 2025, EPCC; all rights reserved."
 
-    contact_url = ""
     address = "<p>support@cirrus.ac.uk</p>"
 
 #########################
