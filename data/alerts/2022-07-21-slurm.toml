@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "At-Risk"
+start_date = 2022-07-21T09:00:00
+end_date = 2022-07-21T10:50:00
+scope = "Slurm control and accounting services"
+impact = "Submitting new jobs to the scheduler, starting of jobs and querying of jobs will be unavailable for duration of the work.<br> Running jobs will continue without interruption.<br>Work was completed, ahead of schedule, at 10:50"
+reason = "Update to Slurm"

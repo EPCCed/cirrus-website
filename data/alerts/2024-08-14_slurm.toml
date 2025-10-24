@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "At-Risk"
+start_date = 2024-08-14T10:00:00
+end_date = 2024-08-14T11:00:00
+scope = "Slurm"
+impact = "No user impact expected.  Small risk that the slurm deamon may be unavailable briefly but if you experience any issue, please wait a few minutes and resubmit. Running jobs will continue without interruption."
+reason = "Update to Slurm to reduce maximum memory available to jobs."

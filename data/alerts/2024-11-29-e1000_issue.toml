@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-11-29T11:30:00
+end_date = 2024-11-29T18:00:00
+scope = "Access to /work. Slurm."
+impact = "Users unable to access their data within /work and cannot load module environment. No new jobs starting. Running jobs may fail. If login shell hangs, use \"ctrl+c\" to get a shell to access data on /home."
+reason = "Hardware failure in E1000 Lustre storage"

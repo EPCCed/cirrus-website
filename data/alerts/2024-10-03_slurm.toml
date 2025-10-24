@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2024-10-03T16:00:00
+end_date = 2024-10-04T19:20:00
+scope = "Slurm"
+impact = "Slurm commands on the login nodes fail.  New work cannot be started, already running work will continue but will be held until slurm is functional again.<br> Logins and filesystems remain accessible."
+reason = "System restored to normal function."

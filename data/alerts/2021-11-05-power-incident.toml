@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Issue"
+start_date = 2021-11-05T08:00:00
+end_date = 2021-11-05T11:30:00
+scope = "Cirrus&colon; CPU compute nodes"
+impact = "A small number of CPU compute nodes were unavailable to run jobs"
+reason = "A power incident in the Edinburgh area caused a number of CPU compute nodes to lose power."

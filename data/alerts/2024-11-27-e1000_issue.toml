@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Issue"
+start_date = 2024-11-27T13:00:00
+end_date = 2024-11-27T18:00:00
+scope = "Issues with /work which is also impacting the module environment"
+impact = "Users unable to access their data within /work and cannot load module environment."
+reason = "Issues with the E1000 server."

@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Scratch filesystem"
+start_date = 2023-05-15T16:00:00
+end_date = 2303-05-19T18:00:00
+quarter = "2023_q2"
+system = "Cirrus /scratch"
+impact = "The solid-state storage (/scratch) will be unavailable on Cirrus from Monday 15th May at 1600. We expect the disk to be unavailable until Friday 19th May but we will notify users once it is available again.<br/>This means that users will not be able to access any data on the /scratch filesystem during this time."
+reason = "The maintenance is to improve the resiliency and reliability of the solid-state storage (/scratch) by applying software updates, failover policy implementation and deploying additional packages."

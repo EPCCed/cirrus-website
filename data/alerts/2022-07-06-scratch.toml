@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "At-Risk"
+start_date = 2022-07-06T09:00:00
+end_date = 2022-07-06T11:25:00
+scope = "RPOOL /scratch filesystem"
+impact = "No user impact expected"
+reason = "RAID Check to be performed on a disk reporting issues"

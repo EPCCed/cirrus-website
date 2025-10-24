@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-05-19T14:00:00
+end_date = 2023-06-12T12:00:00
+scope = "Arm Forge (MAP/DDT) tools"
+impact = "Arm Forge software is not available on Cirrus"
+reason = "Licence server is hosted by ARCHER2 which is down for multiple weeks for upgrade"

@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Issue"
+start_date = 2022-05-09T09:00:00
+end_date = 2022-05-09T17:00:00
+scope = "Cirrus /scratch servers"
+impact = "All user activity as modules could not be loaded. Partial resolution in the afternoon allowed users to access Cirrus but modules still could not be loaded, and new jobs would not run correctly."
+reason = "Under investigation by systems and HPE."

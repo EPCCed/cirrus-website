@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Issue"
+start_date = 2022-05-18T09:00:00
+end_date = 2022-05-18T12:00:00
+scope = "Cirrus compute and login nodes including the /scratch servers"
+impact = "Users will not be able to connect to Cirrus and no jobs will run. The system has been drained ahead of this maintenance. Once this is confirmed a user mailing will be sent out."
+reason = "A configuration setting change is required for /scratch to resolve the issues which were impacting users' work last week."

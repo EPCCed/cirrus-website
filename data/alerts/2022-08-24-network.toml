@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Partial"
+start_date = 2022-08-24T09:00:00
+end_date = 2022-08-24T13:00:00
+scope = "No access to login nodes, data and SAFE. Running jobs will not be affected and new jobs will start."
+impact = "Up to 4 hours loss of connection to Cirrus login nodes, data and SAFE access"
+reason = "Essential updates to the network configuration. Users will be notified when service is resumed."

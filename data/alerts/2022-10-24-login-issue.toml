@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2022-10-24T08:00:00
+end_date = 2022-10-24T09:30:00
+scope = "Login nodes"
+impact = "Login access to Cirrus is currently unavailable"
+reason = "Login nodes became unresponsive"

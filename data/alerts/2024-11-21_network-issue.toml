@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-11-21T11:40:00
+end_date = 2024-11-21T12:00:00
+scope = "Access to Cirrus from outside University of Edinburgh"
+impact = "No users will be able to access Cirrus from outside the University of Edinburgh network. Running/queued jobs are unaffected."
+reason = "Loss of power to part of the communication network"

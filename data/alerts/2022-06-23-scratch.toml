@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Full"
+start_date = 2022-06-23T15:00:00
+end_date = 2022-06-24T15:00:00
+scope = "Full Cirrus Service - login nodes, compute node (CPU and GPU), all filesystems"
+impact = "Users will not be able to connect to the service, no jobs will run and filesystems are unavailable."
+reason = "Issues with the scratch filesystem following a successful RAID card replacement"

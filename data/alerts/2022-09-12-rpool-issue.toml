@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2022-09-12T07:00:00
+end_date = 2022-09-14T14:30:00
+scope = "Login nodes, compute nodes"
+impact = "Access to solid state storage (/scratch) is now available from login nodes, CPUs and GPUs nodes. Software modules are now available and are loaded from lustre (/work)."
+reason = "The RPOOL solid state storage has an error on one of the NVMe devices"

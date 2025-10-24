@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-11-15T09:00:00
+end_date = 2023-11-15T09:30:00
+scope = "Cirrus"
+impact = "The process to connect to Cirrus will change from ssh key and password to ssh key and TOTP factor"
+reason = "Implementing MFA on Cirrus"

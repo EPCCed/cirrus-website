@@ -1,0 +1,7 @@
+status = "On-going"
+type = "Service Alert"
+start_date = 2025-02-19T09:00:00
+end_date = 2025-02-19T17:00:00
+scope = "work file system"
+impact = "We do not expect any impact to users."
+reason = "Hardware vendor is working on E1000 where the work file system is hosted"

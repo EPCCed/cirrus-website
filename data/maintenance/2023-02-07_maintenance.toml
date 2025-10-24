@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Partial Maintenance"
+start_date = 2023-02-07T09:00:00
+end_date = 2023-02-07T17:00:00
+quarter = "2023_q1"
+system = "Cirrus"
+impact = "CPU and GPU compute nodes will be unavailable. Login access and access to data will still be available."
+reason = "Essential maintenance to the Cirrus liquid cooling system."

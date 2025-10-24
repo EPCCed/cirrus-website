@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-03-21T10:15:00
+end_date = 2024-03-21T17:30:00
+scope = "/scratch unavailable  but login and compute nodes are now restored to service."
+impact = "Work is running once more and new jobs can be submitted."
+reason = "System has been restarted but without /scratch."

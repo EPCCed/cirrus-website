@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Full Maintenance"
+start_date = 2023-07-25T14:00:00
+end_date = 2023-07-26T09:20:00
+quarter = "2023_q3"
+system = "Cirrus"
+impact = "Cirrus will not be available to users. This includes the login nodes, compute nodes and access to the filesystems. We will notify users when Cirrus is returned to service."
+reason = "A fix to the volume issue on the Cirrus CXFS /scratch file system which will be performed by the vendor, HPE."

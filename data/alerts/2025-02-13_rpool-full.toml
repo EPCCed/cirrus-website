@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2025-02-13T12:30:00
+end_date = 2025-02-25T09:00:00
+scope = "Solid state (/scratch) RPOOL file system"
+impact = "Any jobs using /scratch file system will fail"
+reason = "/scratch file system is 100% full"

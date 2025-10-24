@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Full"
+start_date = 2025-02-03T08:00:00
+end_date = 2025-02-03T16:00:00
+quarter = "2024_q1"
+system = "Cirrus"
+impact = "No login access<br/> No access to any data on the system<br/>Jobs will not run.<br/>"
+reason = "Essential work on E1000 which hosts the cirrus work file system"

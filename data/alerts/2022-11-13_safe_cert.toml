@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2022-11-13T10:00:00
+end_date = 2022-11-14T09:00:00
+scope = "SAFE website"
+impact = "Users will get a security warning when trying to access SAFE website; some web browsers (e.g. Chrome) will not connect to SAFE website; Cirrus load plot on status page will not work"
+reason = "The website certificate has expired"

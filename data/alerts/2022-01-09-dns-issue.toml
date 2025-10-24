@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Issue"
+start_date = 2022-01-09T10:00:00
+end_date = 2022-01-10T10:30:00
+scope = "Cirrus, SAFE"
+impact = "Outgoing network access from Cirrus to external sites was not working. SAFE response was slow or degraded.compute nodes to lose power."
+reason = "DNS issue at datacentre"

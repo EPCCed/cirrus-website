@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-06-10T10:50:00
+end_date = 2024-06-11T14:00:00
+scope = "Solid State file system, RPOOL"
+impact = "Scratch file system unavailable."
+reason = "Unknown - systems teams are investigating"

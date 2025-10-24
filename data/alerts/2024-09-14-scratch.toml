@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-09-12T17:15:00
+end_date = 2024-09-13T10:30:00
+scope = "RPOOL /scratch filesystem"
+impact = "/scratch is unavailable"
+reason = "Cause is being investigated with HPE"

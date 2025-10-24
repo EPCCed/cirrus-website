@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Full"
+start_date = 2025-08-29T09:00:00
+end_date = 2025-09-18T15:40:00
+quarter = "Q3 2025"
+system = "Full Cirrus system"
+impact = "Users will not be able to connect to Cirrus and will not be able to access data on any of the Cirrus file systems.  The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the Cirrus website will be available."
+reason = "Due to a significant Health and Safety risk, associated with our power supply to the site, action is required at the Advanced Computing Facility (ACF). There will be a full power outage to the site during this period. Specialised external contractors will be working on a 24/7 basis for the outage period replacing switchgear."

@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "At-Risk"
+start_date = 2024-09-11T12:15:00
+end_date = 2024-09-11T14:40:00
+scope = "Slurm scheduler"
+impact = "All jobs may have stopped running. New jobs would not start."
+reason = "Returning the scratch file system to service caused issues with the Slurm scheduler"

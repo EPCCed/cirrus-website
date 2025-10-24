@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "At-Risk"
+start_date = 2023-11-29T09:00:00
+end_date = 2023-11-29T17:00:00
+scope = "Slurm"
+impact = "Submitting new jobs to the scheduler, starting of jobs and querying of jobs will be unavailable for duration of the work. Running jobs will continue without interruption."
+reason = "Update to Slurm"

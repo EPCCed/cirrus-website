@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-04-30T08:35:00
+end_date = 2024-04-30T10:00:00
+scope = "Cirrus compute nodes and scratch (solid state RPOOL) file system"
+impact = "Jobs may have failed. Please contact the service desk if you think you require a refund"
+reason = "A switch which is connected to the slurm controller is down, this is causing lots of hangs on all nodes. Systems team are investigating but it may mean that all running jobs have failed."

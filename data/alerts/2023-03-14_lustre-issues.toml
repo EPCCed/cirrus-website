@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-03-13T21:00:00
+end_date = 2023-03-14T15:25:00
+scope = "Work (Lustre) parallel file system"
+impact = "Users may see lack of responsiveness on Cirrus login nodes and reduced IO performance"
+reason = "Heavy load on the Lustre file system is causing contention for shared resources"

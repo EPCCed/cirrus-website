@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2022-11-21T09:00:00
+end_date = 2022-11-21T11:00:00
+scope = "Login nodes"
+impact = "The Cirrus login nodes are currently unavailable to users"
+reason = "The Ceph home file system has issues due to a failure at the data centre"

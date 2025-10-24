@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-05-21T19:00:00
+end_date = 2023-05-22T13:30:00
+scope = "Login, compute, file systems"
+impact = "Users will not be able to connect to Cirrus, all running jobs will have failed"
+reason = "Power and cooling issues at the ACF data centre"

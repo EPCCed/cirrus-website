@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-01-30T08:00:00
+end_date = 2024-03-12T18:00:00
+scope = "New accounts will appear in SAFE"
+impact = "Users may notice that they have duplicate accounts within SAFE. username@cirrus will be replicated and a username@eidf will also appear"
+reason = "Cirrus service is transitioning from using ldap to ipa"

@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2024-04-22T07:00:00
+end_date = 2024-04-26T17:00:00
+scope = "Full Cirrus service - No service available"
+impact = "Users will be unable to connect to Cirrus and will not be able to access their data. Jobs will not run."
+reason = "Work at the Advanced Computing Facility (ACF) where Cirrus is located is taking place and the power will be removed from Cirrus."

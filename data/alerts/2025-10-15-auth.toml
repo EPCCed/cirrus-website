@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service Alert"
+start_date = 2025-10-15T08:00:00
+end_date = 2025-10-16T14:30:00
+scope = "Login nodes"
+impact = "Risk of unexpected issues with new accounts on 15/16 Oct"
+reason = "Essential upgrade of authorisation servers"

@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-05-21T19:00:00
+end_date = 2023-05-25T10:30:00
+scope = "/scratch solid state storage"
+impact = "/scratch is now available on login and compute nodes."
+reason = "HPE were investigating issues with the stability of the /scratch file system"

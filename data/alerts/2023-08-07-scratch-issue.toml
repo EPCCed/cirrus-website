@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-08-07T12:00:00
+end_date = 2023-08-08T14:10:00
+scope = "/scratch solid state storage"
+impact = "/scratch unavailable"
+reason = "<b>Update 1400  8th August&colon; System restored and work running once more</b><br>Update 1150 &colon; Following the reboot, access to login nodes has now been restored.  Compute nodes are currently rebooting and work will restart once this has completed.  <br>Full system reboot taking place starting at 1130  Tues 8th August.<br>Our systems team are working with the vendor to understand and try to resolve the issue."

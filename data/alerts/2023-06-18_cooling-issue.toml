@@ -1,0 +1,7 @@
+status = "Resolved"
+type = "Service alert"
+start_date = 2023-06-18T15:30:00
+end_date = 2023-06-19T11:15:00
+scope = "Compute nodes"
+impact = "All compute nodes unavailable"
+reason = "Due to a power event at the site that hosts Cirrus there are cooling issues that required the Cirrus compute nodes to be taken offline."

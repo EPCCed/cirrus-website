@@ -1,7 +1,7 @@
-status = "Ongoing"
+status = "Resolved"
 type = "Service Alert"
-start_date = 2025-08-11 09:00:00
-end_date = 2025-08-11 11:00:00
+start_date = 2025-08-11T13:50:00
+end_date = 2025-08-11T14:17:00
 scope = "SAFE, MFA at login"
 impact = "Login not accessible, SAFE not accessible"
 reason = "Due to work on SAFE database, SAFE and Cirrus login MFA are currently unavailable"

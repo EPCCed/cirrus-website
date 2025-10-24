@@ -39,8 +39,6 @@ This table lists the last five resolved service alerts
 
 ## Service Maintenance Sessions
 
-{{< open-maintenance >}} 
-
 We keep maintenance downtime to a minimum on the service but do occasionally
 need to perform essential work on the system. Maintenance sessions are used to 
 ensure that:
@@ -53,6 +51,8 @@ essential security patches are applied;
 periodic essential maintenance on HPE electrical and mechanical support equipment (refrigeration systems, air blowers and power distribution units) can be undertaken safely.
 
 Additional maintenance sessions can be scheduled for major hardware or software updates; major upgrades to facility plant and infrastructure; acceptance testing following major service upgrades and statutory electrical testing.
+
+{{< open-maintenance >}} 
 
 A list of all [previous maintenance sessions](../history/maintenance/).
 

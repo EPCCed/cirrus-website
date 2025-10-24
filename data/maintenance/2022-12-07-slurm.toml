@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Full Maintenance"
+start_date = 2022-12-07T09:00:00
+end_date = 2022-12-07T17:00:00
+quarter = "2022_q4"
+system = "Cirrus"
+impact = "Cirrus will not be available to users. This includes the login nodes, compute nodes and access to the filesystems. We will notify users when it is returned to service."
+reason = "Upgrade to the slurm batch scheduler."

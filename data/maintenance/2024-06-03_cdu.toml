@@ -1,0 +1,8 @@
+status = "Completed"
+type = "Full"
+start_date = 2024-06-03T08:00:00
+end_date = 2024-06-04T11:00:00
+quarter = "2024_q2"
+system = "Cirrus"
+impact = "No login access<br/> No access to any data on the system<br/>Jobs will not run. <br/>"
+reason = "Cooling Ditribution Unit (CDU) maintenance for Cirrus. System will be brought back with new boot image which includes an updated CUDA driver."
