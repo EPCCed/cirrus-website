@@ -5,7 +5,7 @@ summary: Pump-priming access to test Cirrus for your research
 ---
 
 As a pump priming opportunity for new users, Cirrus offers
-access to Cirrus for a limited number of Core-h over a six month period.
+access to Cirrus for a limited number of coreh over a six month period.
 This mode of access should give new users the opportunity to test Cirrus
 for their purposes and work towards a fully peer reviewed application,
 either via a standard grant or via
@@ -21,8 +21,8 @@ the Cirrus service for your work.
 
 ## Application proceedure
 
-A [Cirrus Instant Access Technical Assessment Form](ta/Cirrus-TA-Instant-form.docx)
-should be completed by you and sent to the [Cirrus Service Desk](../service-desk/).
+A [Cirrus Pump Priming Application Form](..//Cirrus-TA-PumpPriming-form.docx)
+should be completed by you and sent to the [Cirrus Service Desk](../../user-support/).
 
 The Cirrus CSE service will evaluate the technical feasibility of the project.
 

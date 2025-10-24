@@ -35,13 +35,13 @@ Academic Access, UoE Director's Time or grant access routes are more suitable.
 ### Grant access for non-UKRI funding source
 
 If you wish to apply for Cirrus resources on a grant proposal to a non-UKRI funding source, please
-[contact the Cirrus Service Desk](../service-desk/) in the first instance to discuss.
+[contact the Cirrus Service Desk](../user-support/) in the first instance to discuss.
 
 ## Resource Units
 
 Access to Cirrus is currently granted in units of:
 
-- Core-h for compute allocations: 1 Cirrus Core-h is the equivalent of 1 physical core used for 1 hour;
+- coreh for compute allocations: 1 Cirrus coreh is the equivalent of 1 physical core used for 1 hour
 - GiB for disk allocations: 1 GiB is 1048576 kB.
 
 
