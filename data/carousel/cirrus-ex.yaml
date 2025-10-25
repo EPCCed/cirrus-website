@@ -1,0 +1,11 @@
+weight: 2
+title: "Updated Cirrus Service"
+description: >
+  <p>
+  Starting on 3 December 2025 the new Cirrus HPE Cray EX4000 system will replace the old Cirrus SGI ICE XA
+  </p>
+  <p>
+  Find out more about the new hardware and software...
+  </p>
+image: "img/carousel/CirrusEX_cabinets.png"
+href: "about/hardware-software/"

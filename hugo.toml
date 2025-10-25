@@ -118,6 +118,13 @@ pluralizelisttitles = false
     url        = "/industry/"
     weight     = 5
 
+# SAFE login link
+[[menu.main]]
+    name       = "SAFE Login"
+    identifier = "menu.safe"
+    url        = "https://safe.epcc.ed.ac.uk"
+    weight     = 6
+
 #########################
 # Top level carousel setup
 #########################
@@ -125,7 +132,7 @@ pluralizelisttitles = false
     # All carousel items are defined in their own files
     # at 'data/carousel'.
     enable = true
-    auto_play = false
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
@@ -135,7 +142,8 @@ pluralizelisttitles = false
     <div class="description">
     <img class='front-logos' src='img/logo-set.png' alt='Logos' />
     <p class="frontpage">
-    Cirrus is a state of the art HPC system hosted by <a href='https://www.epcc.ed.ac.uk/' alt='EPCC website'>EPCC</a> that provides an ideal platform for users in academia and industry to solve their computational, simulation, modelling, and data science challenges.
+    Cirrus is a state of the art HPC system hosted by <a href='https://www.epcc.ed.ac.uk/' alt='EPCC website'>EPCC</a> that provides an ideal platform for users in academia and industry to solve their computational, simulation, modelling, and data science challenges.<br/><br/>
+    Cirrus is also one of the <a href='https://www.ukri.org/' alt='UKRI website'>UKRI</a> Tier-2 national HPC facilities.
     </p>
     </div>
     """
