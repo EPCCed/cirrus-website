@@ -51,6 +51,9 @@ You agree:
     Policy](https://community.ja.net/library/acceptable-use-policy)
 -   to comply with any special conditions that may apply to particular
     software packages
+-   to comply with UKRI's [Trusted Research policy and guidance](https://www.ukri.org/manage-your-award/good-research-resource-hub/trusted-research-and-innovation/)
+-   to comply with the Trusted research policies and guidance of your institution
+-   to comply with all relevant export control laws and regulations including those in our [Export Control document](../export-control)
 
 We agree:
 ---------

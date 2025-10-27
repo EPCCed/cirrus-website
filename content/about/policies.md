@@ -13,8 +13,8 @@ Conditions.
 
   - [Terms and Conditions of Access](../policy-tandc/)
   - [Personal Data and Privacy Policy](../policy-privacy/)
-  - [Policy on end of life procedures for Cirrus user accounts and
-    projects](../policy-closure/)
+  - [Policy on end of life procedures for Cirrus user accounts and projects](../policy-closure/)
+  - [Export Control document](../export-control/)
 
 In addition, Cirrus access also falls within the remit of the Computing
 Regulations and Security Policy of the University of Edinburgh and all
