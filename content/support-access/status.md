@@ -29,10 +29,6 @@ A description of each of the status types is provided below the plot.
 
 ![Cirrus GPU Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_gpu.png)
 
-{: style="width=80%" align="center"
-alt="Cirrus Node Status over time" 
-title="Cirrus Node Status over time"}
-
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
 - *resv*: Nodes in reservation and not available for standard user jobs
