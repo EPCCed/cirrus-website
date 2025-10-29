@@ -21,6 +21,10 @@ on the hardware and software is available at:
 
 With more detailed information on the hardware and software in the [Cirrus documentation](https://docs.cirrus.ac.uk).
 
+## Research
+
+Some examples of research undertaken using Cirrus are available in the [Research section](research/).
+
 ## Policies
 
 For more information on the Cirrus service policies, see the dedicated [Policies section](policies/).
@@ -39,5 +43,5 @@ role in running and supporting the service. The key staff are:
 ## Contact Us
 
 If you have any questions about Cirrus then please do not hesitate to
-[contact the support team](../support/).
+[contact the support team](../support-access/user-support).
 

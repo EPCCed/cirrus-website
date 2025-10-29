@@ -55,9 +55,15 @@ pluralizelisttitles = false
     parent     = "menu.about"
 
 [[menu.main]]
+    name       = "Research"
+    url        = "/about/research/"
+    weight     = 3
+    parent     = "menu.about"
+
+[[menu.main]]
     name       = "Service Policies"
     url        = "/about/policies/"
-    weight     = 3
+    weight     = 4
     parent     = "menu.about"
 
 # Support menu
@@ -104,26 +110,19 @@ pluralizelisttitles = false
     weight     = 2
     parent     = "menu.documentation"
 
-# Research menu
-[[menu.main]]
-    name       = "Research"
-    identifier = "menu.research"
-    url        = "/research/"
-    weight     = 4
-
 # Industry menu
 [[menu.main]]
     name       = "Industry"
     identifier = "menu.industry"
     url        = "/industry/"
-    weight     = 5
+    weight     = 4
 
 # SAFE login link
 [[menu.main]]
     name       = "SAFE Login"
     identifier = "menu.safe"
     url        = "https://safe.epcc.ed.ac.uk"
-    weight     = 6
+    weight     = 5
 
 #########################
 # Top level carousel setup
