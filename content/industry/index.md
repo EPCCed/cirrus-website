@@ -4,7 +4,7 @@ title: Industry use of Cirrus
 summary: 
 ---
 
-With over twenty years in the High Performance Computing (HPC) sector, EPCC are committed to bringing the world of HPC to all industrial and commercial sectors. With a range of initiatives, members of our team can work with commercial partners to help overcome any barriers they may have using HPC. 
+With over thirty years in the High Performance Computing (HPC) sector, EPCC are committed to bringing the world of HPC to all industrial and commercial sectors. With a range of initiatives, members of our team can work with commercial partners to help overcome any barriers they may have using HPC. 
 
 We have a long history of working alongside academia, industrial and commercial partners on world leading HPC. Our research collaborations can take many forms and are funded through a variety of mechanisms that include the UK Research Councils, Scottish Enterprise and European Commission.
 
