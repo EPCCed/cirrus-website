@@ -1203,6 +1203,8 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel p,
 .home-carousel ul {
   color: #fff;
+  text-shadow: 1px 1px 2px black;
+
 }
 .home-carousel h1 {
   font-weight: 700;
