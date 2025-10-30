@@ -9,7 +9,7 @@ summary:
 
 ## New HPE Cray EX4000 System
 
-A wew Cirrus system based will be installed in Q4 2025 to replace the end-of-life components that will be
+A new Cirrus system based will be installed in Q4 2025 to replace the end-of-life components that will be
 retired once the new system is up and running.
 
 ### Hardware 
