@@ -29,7 +29,7 @@ pluralizelisttitles = false
     about_us = "<p>EPCC provides world-class supercomputing and data services and facilities for science and business.</p>"
     copyright = "Copyright (c) 2025, EPCC; all rights reserved."
 
-    address = "<p><a href="mailto:support@cirrus.ac.uk">support@cirrus.ac.uk</a></p>"
+    address = "<p><a href='mailto:support@cirrus.ac.uk' alt='email the Cirrus service desk'>support@cirrus.ac.uk</a></p>"
 
 #########################
 # Top level website menu
