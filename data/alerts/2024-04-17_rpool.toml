@@ -3,5 +3,5 @@ type = "Service Alert"
 start_date = 2024-04-17T10:30:00
 end_date = 2024-04-18T09:00:00
 scope = "RPOOL, Solid state file system"
-impact = "There should be no user imapct due to resilency of the system"
+impact = "There should be no user impact due to resiliency of the system"
 reason = "Swapping and commissioning of one of the disks within the solid state file system"
