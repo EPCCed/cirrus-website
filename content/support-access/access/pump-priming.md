@@ -19,7 +19,7 @@ in exceptional cases.
 You can apply for a maximum of 80,000 coreh over a six month period to test
 the Cirrus service for your work.
 
-## Application proceedure
+## Application procedure
 
 A [Cirrus Pump Priming Application Form](..//Cirrus-TA-PumpPriming-form.docx)
 should be completed by you and sent to the [Cirrus Service Desk](../../user-support/).
