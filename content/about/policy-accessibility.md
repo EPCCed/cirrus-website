@@ -32,14 +32,14 @@ We know some parts of this website are not fully accessible:
 
 If you need information on this website in a different format like accessible PDF or large print:
 
-Email the [Cirrus Service Desk](https://www.cirrus.ac.uk/support/).
+Email the [Cirrus Service Desk](../../support-access/user-support).
 
 We’ll consider your request and get back to you in 10 working days.
 
 
 ### Reporting accessibility problems with this website
 
-We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact: the [Cirrus Service Desk](https://www.cirrus.ac.uk/support/).
+We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact: the [Cirrus Service Desk](../../support-access/user-support).
 
 ### Enforcement procedure
 
@@ -48,7 +48,7 @@ The Equality and Human Rights Commission (EHRC) is responsible for enforcing the
 
 ## Contacting us by email or phone 
 
-You can contact us contact us by email via the [Cirrus Service Desk](https://www.cirrus.ac.uk/support/).
+You can contact us contact us by email via the [Cirrus Service Desk](../../support-access/user-support).
 
 ## Technical information about this website’s accessibility
 
@@ -82,7 +82,7 @@ We do not believe any content is not within scope.
 
 #### PDFs and other documents
 
-PDFs and other documents can be provided in alternative formats on request to the [Cirrus Service Desk](https://www.cirrus.ac.uk/support/).
+PDFs and other documents can be provided in alternative formats on request to the [Cirrus Service Desk](../../support-access/user-support).
 
 #### Live video
 
@@ -90,7 +90,7 @@ We do not plan to use live video.
 
 ## What we’re doing to improve accessibility
 
-This site was developed with accessibility in mind and we will continue to review the accessibility of the site as it develops.  We welcome any feedback and comments on the site via the [Cirrus Service Desk](https://www.cirrus.ac.uk/support/).
+This site was developed with accessibility in mind and we will continue to review the accessibility of the site as it develops.  We welcome any feedback and comments on the site via the [Cirrus Service Desk](../../support-access/user-support).
 
 
 ## Preparation of this accessibility statement
