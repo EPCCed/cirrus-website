@@ -28,7 +28,7 @@ Academic Access, UoE Director's Time or grant access routes are more suitable.
 | [Driving Test](driving-test/) | Any research area | Quick turnaround (1-2 weeks), 12 month access individual access, 20,000 coreh max. |
 | [UoE Director's Time](directors-time/) | University of Edinburgh researchers, any research area | Medium turnaround (3-4 weeks), 12 month research group access, 1 Mcoreh max. |
 | [Scottish Academic Access](scottish/) | Scottish institution researchers, any research area | Medium turnaround (3-4 weeks), 12 month research group access, 1 Mcoreh max. |
-| [Access to HPC](a2hpc/) | Any research area | Long turnaround (access start: 1 Jan 2026), deadline: 1600 GMT, 6 Nov 2025, [Full details on call page](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |
+| [Access to HPC](a2hpc/) | Any research area | Long turnaround, next call due late Srping 2026, [Previous (closed) call details](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |
 | [UKRI Grant Access](ukri-grant/) | Any research area | Long turnaround (3-6 months), flexible access length and resources |
 {{< /bootstrap-table >}}
 
