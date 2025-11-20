@@ -1,13 +1,15 @@
 weight: 1
-title: "Updated Cirrus Service"
+title: "Cirrus EX4000"
 description: >
   <p>
-  Starting in early December 2025 the new Cirrus HPE Cray EX4000 system will replace the old Cirrus SGI ICE XA
+  On 8 Dec 2025 the new HPE Cray EX4000 system will replace the SGI ICE XA system.
   </p>
   <p>
-  The new Cirrus system will have over 73,000 AMD compute cores connected
-  by a high performance HPE Slingshot 11 interconnect.<br/>
-  Find out more about the new hardware and software...
+  Projects not continuing on the new Cirrus EX4000 system must copy off any data they wish
+  to keep before 8 Dec 2025.
+  </p>
+  <p>
+  Read the migration guide for more information&hellip;
   </p>
 image: "img/carousel/CirrusEX_cabinets.png"
-href: "about/hardware-software/"
+href: "https://docs.cirrus.ac.uk/migration-2025"
