@@ -1,0 +1,8 @@
+status = "Planned"
+type = "Full"
+start_date = 2025-12-08T08:00:00
+end_date = 2025-12-08T13:00:00
+quarter = "Q4 2025"
+system = "Full Cirrus system"
+impact = "Login unavailable. Projects not continuing on Cirrus EX4000 should transfer all data they wish to keep off the system before this work starts. Access to data ob /scratch (RPOOL) will end for all users so data must be transferred off this file system before this work starts."
+reason = "End of life of the current Cirrus hardware and start of Cirrus EX4000 hardware lifetime."
