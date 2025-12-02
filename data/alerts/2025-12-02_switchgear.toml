@@ -1,6 +1,6 @@
 status = "Planned"
 type = "Service Alert"
-start_date = 2025-12-10 08:00
+start_date = 2025-12-10 8:00
 end_date =  
 scope = "Mains power supply to systems at ACF"
 impact = "Low risk of loss of mains power to ACF systems"
