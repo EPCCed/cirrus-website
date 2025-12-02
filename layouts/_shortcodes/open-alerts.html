@@ -20,10 +20,18 @@
             {{ .status }}
         </td>
         <td>
-            {{ .start_date| time.Format $time_format }}
+            {{ if eq .start_date " " }}
+               &nbsp;
+            {{ else }}
+               {{ .start_date| time.Format $time_format }}
+            {{ end }}
         </td>
         <td>
-            {{ .end_date | time.Format $time_format }}
+            {{ if eq .end_date " " }}
+               &nbsp;
+            {{ else }}
+               {{ .end_date | time.Format $time_format }}
+            {{ end }}
         </td>
         <td>
             {{ .scope | safeHTML }}
