@@ -2,11 +2,11 @@ weight: 1
 title: "Cirrus EX4000"
 description: >
   <p>
-  On 8 Dec 2025 the new HPE Cray EX4000 system will replace the SGI ICE XA system.
+  The new HPE Cray EX4000 system has now replaced the SGI ICE XA system.
   </p>
   <p>
-  Projects not continuing on the new Cirrus EX4000 system must copy off any data they wish
-  to keep before 8 Dec 2025.
+  Projects not continuing on the new Cirrus EX4000 system can no longer
+  access any data on Cirrus.
   </p>
   <p>
   Read the migration guide for more information&hellip;
