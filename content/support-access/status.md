@@ -4,9 +4,12 @@ title: Cirrus Service Status
 summary: Up to date status of the Cirrus service
 ---
 
-- [Current System Load](#current-system-load)
+
+<!-- - [Current System Load](#current-system-load) -->
 - [Service Alerts](#service-alerts)
 - [Service Maintenance Sessions](#service-maintenance-sessions)
+
+<!-- No load plots yet
 
 ## Current System Load
 
@@ -25,15 +28,7 @@ A description of each of the status types is provided below the plot.
 - *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
 - *mix*: Nodes in multiple states 
 
-### GPU
-
-![Cirrus GPU Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_gpu.png)
-
-- *alloc*: Nodes running user jobs
-- *idle*: Nodes available for user jobs
-- *resv*: Nodes in reservation and not available for standard user jobs
-- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
-- *mix*: Nodes in multiple states 
+-->
 
 ## Service Alerts
 
