@@ -89,7 +89,7 @@ IB fabric and all Lustre file system IO traverses the IB fabric.
 
 There are a number of file systems available on Cirrus:
 
-* 1 PB Ceph distributed file system for critical data storage. Mounted on all login nodes. Backed up.
+* 1 PB Ceph distributed file system for critical data storage. Mounted on all login nodes. Not backed up.
 * 1 PB HPE E1000 ClusterStor Lustre parallel file system provides
   high performance data access with high capacity. Mounted on all login and compute nodes. Not backed up.
 * 233 TiB HPE high performance solid state storage. Mounted on all login and compute nodes. Not backed up.
