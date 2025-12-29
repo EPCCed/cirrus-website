@@ -25,6 +25,7 @@ pluralizelisttitles = false
     logo = "img/cirrus-small.png"
     logo_small = "img/cirrus-icon.png"
     style = "cirrus"
+    date_format = "02 Jan 2006"
 
     about_us = "<p>EPCC provides world-class supercomputing and data services and facilities for science and business.</p>"
     copyright = "Copyright (c) 2025, EPCC; all rights reserved."
@@ -64,6 +65,12 @@ pluralizelisttitles = false
     name       = "Service Policies"
     url        = "/about/policies/"
     weight     = 4
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Service News"
+    url        = "/about/news/"
+    weight     = 5
     parent     = "menu.about"
 
 # Support menu
