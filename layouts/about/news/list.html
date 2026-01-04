@@ -21,24 +21,14 @@
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-listing-medium">
+                    <div class="col-md-12" id="blog-listing-medium">
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="{{ .Permalink }}">
-                                          {{ if .Params.banner }}
-                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" />
-                                          {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="" />
-                                          {{ end }}
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
+
+                                <div class="col-md-12">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
