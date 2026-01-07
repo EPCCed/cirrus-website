@@ -1,4 +1,4 @@
-status = "Planned"
+status = "Resolved"
 type = "Service Alert"
 start_date = 2026-01-07T08:00:00
 end_date =  2026-01-07T18:00:00
