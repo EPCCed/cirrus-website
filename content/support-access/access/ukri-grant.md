@@ -9,17 +9,16 @@ on our [Access page](../)).
 
 ## Resource Available
 
-We would normally expect Grant Access applications to be around 500,000 - 2,000,000 coreh per annum but we do have larger projects than this. Please contact the [Cirrus Service Desk](../../user-support/) to discuss if you have larger requirements.
+We would normally expect Grant Access applications to be around 500,000 - 20,000,000 coreh per annum but we do have larger projects than this. Please contact the [Cirrus Service Desk](../../user-support/) to discuss if you have larger requirements.
 
 ## Application procedure
 
-When submitting proposals to EPSRC Standard Mode (Grant) that include Cirrus resources on the UKRI Funding Service, you should add Cirrus  under Section 6: Facilities
+When submitting proposals to UKRI that include Cirrus resources on the UKRI Funding Service, you should add Cirrus  under Section 6: Facilities
 
 - facility name: Cirrus
 - usage: the requested resource in coreh as *unit* and the notional cost in &pound; as *cost*. Reasonable Cirrus allocations are
-now awarded for the duration of the EPSRC funding. 
+awarded for the duration of the UKRI funding. 
    - Cirrus notional cost for UKRI Grant proposals : &pound;0.00376 per coreh
-- confirmation of facility agreement: This is a completed [Technical Assessment Form](../Cirrus-TA-Grant-form.docx) prior to submission.  Should an application be funded then grant funding would not be released until EPSRC have had sight of the relevant TA, as provided by the facility. 
+- confirmation of facility agreement: This is a completed [Technical Assessment Form](../Cirrus-TA-Grant-form.docx) prior to submission.  Should an application be funded then grant funding would not be released until UKRI have had sight of the relevant TA, as provided by the facility. 
 
-For other grant schemes, please contact the funding call contact listed on the UKRI call page to discuss how Cirrus resources should be added.
 
