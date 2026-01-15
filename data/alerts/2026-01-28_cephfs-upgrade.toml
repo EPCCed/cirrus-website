@@ -1,0 +1,7 @@
+status = "Ongoing"
+type = "Service Alert"
+start_date = 2026-01-28T18:00:00
+end_date =  2026-01-29T20:00:00
+scope = "Cirrus home (CephFS) file system"
+impact = "Low risk of file system outage, performance degradation expected"
+reason = "Essential software upgrades to the CephFS file system"
