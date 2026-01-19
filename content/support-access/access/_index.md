@@ -16,25 +16,22 @@ Please see the dedicated [industry solutions page on the EPCC website](https://w
 Cirrus is one of the [UKRI](http://www.ukri.ac.uk) Tier-2 National HPC facilities and there are 
 number of different academic access routes available.
 
-The table below provides a summary of the different academic access routes. For new users who want
-to test out Cirrus for their research, we recommend the Pump Priming or Driving Test routes. For 
-researchers who need access to larger amounts of resource, the UKRI Access to HPC calls, Scottish
-Academic Access or grant access routes are more suitable.
+The table below provides a summary of the different academic access routes.
+
+For new users who want to test out Cirrus for their research, we recommend the Pump Priming or Driving Test routes.
+
+For  researchers who need access to larger amounts of resource, the UKRI Access to HPC calls, UKRI grant access or
+General Academic Access (via EIDF) routes are more suitable.
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
 | Access Route | Availability | Notes |
 |---|---|---|
 | [Pump Priming](pump-priming/) | Any research area | Quick turnaround (1-2 weeks), 6 month research group access, 80,000 coreh max. |
 | [Driving Test](driving-test/) | Any research area | Quick turnaround (1-2 weeks), 12 month access individual access, 20,000 coreh max. |
-| [Scottish Academic Access](scottish/) | Scottish institution researchers, any research area | Medium turnaround (3-4 weeks), 12 month research group access, 1 Mcoreh max. |
 | [Access to HPC](a2hpc/) | Any research area | Long turnaround, next call due late Spring 2026, [Previous (closed) call details](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |
 | [UKRI Grant Access](ukri-grant/) | Any research area | Long turnaround (3-6 months), flexible access length and resources |
+| [General Academic Access (via EIDF)](general-eidf/) | Any research area | Medium turnaround (2-4 weeks), flexible access length and resources |
 {{< /bootstrap-table >}}
-
-### Grant access for non-UKRI funding source
-
-If you wish to apply for Cirrus resources on a grant proposal to a non-UKRI funding source, please
-[contact the Cirrus Service Desk](../user-support/) in the first instance to discuss.
 
 ## Resource Units
 
