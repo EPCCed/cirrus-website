@@ -1,6 +1,6 @@
 status = "Ongoing"
 type = "Service Alert"
-start_date = 2026-01-22T08:30:00
+start_date = 2026-01-21T18:30:00
 end_date =  2026-01-22T16:30:00
 scope = "Cirrus cooling"
 impact = "Low probability risk of requirement to throttle compute for Cirrus to reduce cooling load"
