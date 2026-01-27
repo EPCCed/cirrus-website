@@ -32,5 +32,19 @@ Other EIDF services that can be used directly from Cirrus include:
 
 Follow the [EIDF Access Process](https://edinburgh-international-data-facility.ed.ac.uk/access).
 
+## Billing and payment
+
+EIDF resources (including Cirrus) are generally billed quarterly and you only pay for the resources
+you use.
+
+If you use less resources than quoted during your EIDF application, you will only be 
+charged the reduced charge corresponding to actual usage. If you wish to use more resources than
+quoted in your application, and have the funding to support additional use, you can get in touch
+with us during your project to request this facility and, if capacity allows, we can enable this.
+
+You must be able to submit a Purchase Order (PO) to the University of Edinburgh to allow us to invoice
+you for usage charges. The EIDF application process provides a quote for services that you can use
+to raise this PO.
+
 
 
