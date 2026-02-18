@@ -12,11 +12,9 @@ The services available are most of the national Tier-2 HPC service.
 
 ## Current call details
 
-- Call webpage: [UKRI Access to HPC Call (Autumn 2025)](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)
-- Deadline: 1600 GMT, 6 Nov 2025
-- Project start: 1 Jan 2026
+No call currently open - next (unconfimred) call potentially due to open in May 2026 for projects starting in July 2026.
 
-## Resources available
+- Previous call webpage: [UKRI Access to HPC Call (Autumn 2025)](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)
 
 ## Application procedure
 
