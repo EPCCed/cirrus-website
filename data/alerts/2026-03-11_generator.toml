@@ -1,0 +1,7 @@
+status = "Planned"
+type = "Service Alert"
+start_date = 2026-03-11T09:00:00
+end_date = 2026-03-11T10:00:00
+scope = "Cirrus service power"
+impact = "Low probability risk of power interruptions."
+reason = "Routine generator load testing."
