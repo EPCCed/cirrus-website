@@ -1,15 +1,14 @@
 weight: 1
-title: "Cirrus EX4000"
+title: "Cirrus - A UK National Compute Resource"
 description: >
   <p>
-  The new HPE Cray EX4000 system has now replaced the SGI ICE XA system.
+  As part of the UKRI investment, Cirrus will be more than doubling in size over the next few months.
   </p>
   <p>
-  Projects not continuing on the new Cirrus EX4000 system can no longer
-  access any data on Cirrus.
+  Cirrus is one of the initial set of four NCRs.
   </p>
   <p>
-  Read the migration guide for more information&hellip;
+  Read the News post for more information&hellip;
   </p>
 image: "img/carousel/CirrusEX_cabinets.png"
-href: "https://docs.cirrus.ac.uk/migration-2025"
+href: "https://www.cirrus.ac.uk/about/news/2026-03-09-ncr-announce/"
