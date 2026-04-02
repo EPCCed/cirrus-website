@@ -22,11 +22,12 @@ Compute Services:
 Storage:
 
 - *CephFS with 3-copies redundancy* - this corresponds to the amount of space you require on the Cirrus home file system
-- *e1000* - this corresponds to the amount of space you require on the Cirrus work file system (accessible to compute nodes)
+- *VAST NFS without disaster recovery* - this corresponds to the amount of space you require on the Cirrus work file system (accessible to compute nodes)
 
 Other EIDF services that can be used directly from Cirrus include:
 
-- *EIDF S3 without backup* - EIDF S3 storage can be accessed from Cirrus login and compute nodes
+- *EIDF S3 with versioning and without disaster recovery* - EIDF S3 storage can be accessed from Cirrus login and compute nodes
+- *VAST S3 with versioning and without disaster recovery* - EIDF S3 storage can be accessed from Cirrus login and compute nodes
 
 ## Application procedure
 
