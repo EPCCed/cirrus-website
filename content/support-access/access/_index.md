@@ -28,7 +28,7 @@ General Academic Access (via EIDF) routes are more suitable.
 |---|---|---|
 | [Pump Priming](pump-priming/) | Any research area | Quick turnaround (1-2 weeks), 6 month research group access, 80,000 coreh max. |
 | [Driving Test](driving-test/) | Any research area | Quick turnaround (1-2 weeks), 12 month access individual access, 20,000 coreh max. |
-| [Access to HPC](a2hpc/) | Any research area | Long turnaround, next call due late Spring 2026, [Previous (closed) call details](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |
+| [Access to HPC](a2hpc/) | Any research area | Long turnaround, next call not confirmed yet, [Previous (closed) call details](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |
 | [UKRI Grant Access](ukri-grant/) | Any research area | Long turnaround (3-6 months), flexible access length and resources |
 | [General Academic Access (via EIDF)](general-eidf/) | Any research area | Medium turnaround (2-4 weeks), flexible access length and resources |
 {{< /bootstrap-table >}}
