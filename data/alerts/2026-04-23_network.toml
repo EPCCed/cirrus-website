@@ -1,0 +1,7 @@
+status = "Ongoing"
+type = "Issue"
+start_date = 2026-04-23T11:10:00
+end_date = 2026-04-23T12:10:00
+scope = "Cirrus Network"
+impact = "University network issue has let to loss of DNS server and network connectivity. Login to ARCHER2 may fail.  Access to SAFE may fail."
+reason = "University-wide University of Edinburgh network issue.  This is being worked on as a high priority. <br> Update - this now appears to be resolved.  "
