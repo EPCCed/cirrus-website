@@ -4,4 +4,4 @@ start_date = 2026-04-30T15:55:00
 end_date = 2026-04-30T23:00:00
 scope = "Cooling"
 impact = "New work has been prevented from starting to reduce load on the cooling system"
-reason = "Local high temperatures have resulted in cooling system stress"
+reason = "Issues with cooling infrastructure"
