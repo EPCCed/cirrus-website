@@ -1,0 +1,7 @@
+status = "Planned"
+type = "Issue"
+start_date = 2026-05-18T09:00:00
+end_date = 2026-05-20T18:00:00
+scope = "ceph Work Storage system"
+impact = "Possible slower than normal responses whilst the update works take place"
+reason = "Maintenance on the ceph /work storage system"
