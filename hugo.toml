@@ -67,10 +67,17 @@ pluralizelisttitles = false
     weight     = 4
     parent     = "menu.about"
 
+
+[[menu.main]]
+    name       = "User Feedback"
+    url        = "/about/feedback/"
+    weight     = 5
+    parent     = "menu.about"
+
 [[menu.main]]
     name       = "Service News"
     url        = "/about/news/"
-    weight     = 5
+    weight     = 6
     parent     = "menu.about"
 
 # Support menu
