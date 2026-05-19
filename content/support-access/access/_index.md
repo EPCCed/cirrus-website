@@ -13,14 +13,14 @@ Please see the dedicated [industry solutions page on the EPCC website](https://w
 
 ## Academic Access Routes
 
-Cirrus is one of the [UKRI](http://www.ukri.ac.uk) Tier-2 National HPC facilities and there are 
+Cirrus is one of the [UKRI](http://www.ukri.ac.uk) National Compute Resources (NCRs) and there are 
 number of different academic access routes available.
 
 The table below provides a summary of the different academic access routes.
 
 For new users who want to test out Cirrus for their research, we recommend the Pump Priming or Driving Test routes.
 
-For  researchers who need access to larger amounts of resource, the UKRI Access to HPC calls, UKRI grant access or
+For researchers who need access to larger amounts of resource, the UKRI Access to HPC calls, UKRI grant access or
 General Academic Access (via EIDF) routes are more suitable.
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
