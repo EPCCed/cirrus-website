@@ -1,0 +1,7 @@
+status = "Planned"
+type = "At risk"
+start_date = 2026-06-09T10:00:00
+end_date = 2026-06-26T18:00:00
+scope = "Full system"
+impact = "Possible interruption to login access and compute node availablility"
+reason = "Work to expand Cirrus to 640 compute nodes"

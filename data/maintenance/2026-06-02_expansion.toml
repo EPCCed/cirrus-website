@@ -1,0 +1,8 @@
+status = "Planned"
+type = "Full"
+start_date = 2026-06-02T08:30:00
+end_date = 2026-06-09T10:00:00
+quarter = "Q2 2026"
+system = "Compute nodes"
+impact = "All Cirrus compute nodes will be unavailable"
+reason = "Work to expand Cirrus to 640 compute nodes"
