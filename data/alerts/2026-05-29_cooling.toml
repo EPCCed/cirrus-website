@@ -1,7 +1,7 @@
 status = "Ongoing"
 type = "Service Alert"
 start_date = 2026-05-29T11:00:00
-end_date = 
+end_date = 2026-05-29T17:00
 scope = "Compute nodes"
 impact = "No new jobs can start on Cirrus. Running jobs continue as usual."
 reason = "Issues with cooling infrastructure"
