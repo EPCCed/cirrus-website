@@ -20,7 +20,7 @@ The table below provides a summary of the different academic access routes.
 
 For new users who want to test out Cirrus for their research, we recommend the Pump Priming or Driving Test routes.
 
-For researchers who need access to larger amounts of resource, the UKRI Access to HPC calls, UKRI grant access or
+For researchers who need access to larger amounts of resource, the UKRI grant access or
 General Academic Access (via EIDF) routes are more suitable.
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
@@ -28,9 +28,8 @@ General Academic Access (via EIDF) routes are more suitable.
 |---|---|---|
 | [Pump Priming](pump-priming/) | Any research area | Quick turnaround (1-2 weeks), 6 month research group access, 80,000 coreh max. |
 | [Driving Test](driving-test/) | Any research area | Quick turnaround (1-2 weeks), 12 month access individual access, 20,000 coreh max. |
-| [Access to HPC](a2hpc/) | Any research area | Long turnaround, next call not confirmed yet, [Previous (closed) call details](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |
 | [UKRI Grant/Fellowship Access](ukri-grant/) | Any research area | Long turnaround (3-6 months), flexible access length and resources |
-| [General Academic Access (via EIDF)](general-eidf/) | Any research area | Medium turnaround (2-4 weeks), flexible access length and resources |
+| [General Academic Access (via EIDF)](general-eidf/) | Any research area | Fast turnaround (<1 week if requested with a purchase order), flexible access length and resources |
 {{< /bootstrap-table >}}
 
 ## Resource Units
