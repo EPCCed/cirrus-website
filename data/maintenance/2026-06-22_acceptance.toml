@@ -1,8 +1,8 @@
 status = "Planned"
 type = "Full"
-start_date = 2026-06-24T09:00:00
+start_date = 2026-06-24T08:00:00
 end_date = 2026-06-26T18:00:00
 quarter = "Q2 2026"
 scope = "Compute nodes"
 impact = "All Cirrus compute nodes will be unavailable. Login access will remain available at risk."
-reason = "Acceptance testing of expanded Cirrus system - dates may change depending on installation progress"
+reason = "Testing of expanded Cirrus system"
