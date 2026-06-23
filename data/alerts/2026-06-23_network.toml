@@ -3,5 +3,5 @@ type = "Service Alert"
 start_date = 2026-06-23T11:26:00
 end_date = " "
 scope = "Compute nodes"
-impact = "All jobs running will have been lost - they will not have been charged but will need to be resubmitted once Cirrus returns to service.<br>Queued work was unaffected and queued jobs will start as usual once Cirrus returns to service."
+impact = "All jobs running will have been lost - they will not have been charged but will need to be resubmitted once Cirrus returns to service.<br>Queued work was unaffected and queued jobs will start as usual once Cirrus returns to service.<br>We hope to return a portion of Cirrus into service from around 9pm Tuesday evening to allow work to run overnight. We will review and update again in the morning."
 reason = "Issues with slingshot network required Cirrus to be restarted."
