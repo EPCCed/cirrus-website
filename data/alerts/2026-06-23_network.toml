@@ -1,7 +1,7 @@
 status = "Ongoing"
 type = "Service Alert"
 start_date = 2026-06-23T11:26:00
-end_date = 2026-06-23T17:00:00
+end_date = 
 scope = "Compute nodes"
 impact = "No new jobs can start on Cirrus. Running jobs continue as usual."
 reason = "Issues with slingshot network"
