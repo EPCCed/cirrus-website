@@ -1,7 +1,7 @@
-status = "Ongoing"
+status = "Resolved"
 type = "Service Alert"
 start_date = 2026-06-23T11:26:00
-end_date = " "
+end_date = "2026-06-26T11:30:26"
 scope = "Compute nodes"
-impact = "All jobs running will have been lost - they will not have been charged but will need to be resubmitted.<br>Queued work was unaffected and queued jobs started as usual once Cirrus returned to service.<br>Cirrus has been partially returned to service with a proportion of compute nodes now available.  Further nodes will be added when the cooling system is able to cope, given the current hot weather impact."
+impact = "All jobs running will have been lost - they will not have been charged but will need to be resubmitted.<br>Queued work was unaffected and queued jobs started as usual once Cirrus returned to service."
 reason = "Issues with slingshot network required Cirrus to be restarted."
