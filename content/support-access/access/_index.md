@@ -13,7 +13,7 @@ Please see the dedicated [industry solutions page on the EPCC website](https://w
 
 ## Academic Access Routes
 
-Cirrus is one of the [UKRI](http://www.ukri.ac.uk) National Compute Resources (NCRs) and there are 
+Cirrus is one of the [UKRI](http://www.ukri.org) National Compute Resources (NCRs) and there are 
 number of different academic access routes available.
 
 The table below provides a summary of the different academic access routes.
