@@ -1,7 +1,7 @@
-status = "Ongoing"
+status = "Resolved"
 type = "Service alert"
 start_date = 2026-07-02T14:50:00
-end_date = " "
+end_date = 2026-07-02T18:30:00
 scope = "/home file system"
 impact = "/home file system is currently running very slowly which may affect file access and prevent logging on."
 reason = "Unexpected outages related to a problem with the CEPHFS /home disk system"
