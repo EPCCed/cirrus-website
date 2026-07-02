@@ -12,6 +12,9 @@ summaryLength = 70
 # not pluralize title pages by default
 pluralizelisttitles = false
 
+# enable robots
+enableRobotsTXT         = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
