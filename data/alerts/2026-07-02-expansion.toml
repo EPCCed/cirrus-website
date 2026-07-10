@@ -3,5 +3,5 @@ type = "Service alert"
 start_date = 2026-07-08T08:00:00
 end_date = 2026-07-10T18:00:00
 scope = "Compute and Login"
-impact = "User work will not run on Cirrus compute between 08:00 8 July and 18:00 10 July inclusive. User login service has been temporarily suspended.  Further update to be provided Monday 13th July"
+impact = "User login service has been temporarily suspended.  User work is unlikely to start running before access is restored. Further update to be provided Monday 13th July"
 reason = "Completing activity to expand Cirrus to 640 nodes, upgrade CPE and apply security updates that will allow us to re-enable debugging at the end of this maintenance outage."
