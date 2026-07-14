@@ -1,0 +1,7 @@
+status = "Planned"
+type = "Service alert"
+start_date = 2026-07-20T08:30:00
+end_date = 2026-07-21T18:00:00
+scope = "Connectivity to service"
+impact = "Unable to remotely access the service for ~0.5 days with risk of issues or interruptions for up to two days. Scheduled work will continue to run throughout, though there may be issues with workflows that require access external to the service."
+reason = "Upgrade of ACF firewalls and core network"

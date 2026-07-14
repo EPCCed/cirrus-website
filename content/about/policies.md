@@ -23,9 +23,9 @@ Regulations and Security Policy of the University of Edinburgh and all
 users who sign up for a SAFE and/or Cirrus account agree to these
 conditions of access:
 
-  - [University of Edinburgh Computing
-    Regulations](http://www.ed.ac.uk/information-services/about/policies-and-regulations/computing-regulations)
-  - [University of Edinburgh Security
-    Policy](http://www.ed.ac.uk/information-services/about/policies-and-regulations/security-policies/security-policy)
 
+  - [University of Edinburgh Computing
+    Regulations](https://information-services.ed.ac.uk/about/policies-and-regulations/university-computing-acceptable-use-policy)
+  - [University of Edinburgh Security
+    Policy](https://information-services.ed.ac.uk/about/policies-and-regulations/security-policies)
 

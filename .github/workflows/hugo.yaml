@@ -35,6 +35,7 @@ jobs:
     env:
       DART_SASS_VERSION: 1.89.2
       HUGO_VERSION: 0.148.0
+      NODE_VERSION: 24.16.0
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
     steps:
