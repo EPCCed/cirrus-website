@@ -11,11 +11,11 @@ summary:
 
 ### Hardware 
 
-The Cirrus hardware is provided by an HPE Cray EX4000 system with 73,728 CPU cores in 256 compute nodes. There
+The Cirrus hardware is provided by an HPE Cray EX4000 system with 184,320 cores in 640 compute nodes. There
 are no GPU accelerators in the updated Cirrus system.
 
 The compute nodes each have 288 cores. They are dual socket nodes with two 144-core AMD EPYC(tm) 9825
-processors. There are 192 standard memory nodes and 64 high memory nodes. Standard memory nodes have
+processors. There are 576 standard memory nodes and 64 high memory nodes. Standard memory nodes have
 768 GB DDR5 memory, and high memory nodes have 1,536 GB DDR5 memory.
 
 Compute nodes are connected together by a HPE Cray Slingshot 11 interconnect.
