@@ -1,7 +1,7 @@
-status = "Planned"
+status = "Resolved"
 type = "Service alert"
 start_date = 2026-07-08T08:00:00
-end_date = 2026-07-17T18:00:00
+end_date = 2026-07-16T11:40:00
 scope = "Compute and Login"
 impact = "User login service has been temporarily suspended.  User work is unlikely to start running before access is restored. "
 reason = "Completing activity to expand Cirrus to 640 nodes, upgrade CPE and apply security updates that will allow us to re-enable debugging at the end of this maintenance outage."
