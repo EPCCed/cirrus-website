@@ -1,0 +1,7 @@
+status = "Planned"
+type = "Service alert"
+start_date = 2026-07-23T08:30:00
+end_date = 2026-07-23T12:30:00
+scope = "Compute"
+impact = " Maximum 256 nodes available to run work, extending queue times"
+reason = " Maintenance on power delivery to Cirrus expansionk"
