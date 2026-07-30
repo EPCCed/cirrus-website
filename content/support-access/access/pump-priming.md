@@ -8,15 +8,14 @@ As a pump priming opportunity for new users, Cirrus offers
 access to Cirrus for a limited number of coreh over a six month period.
 This mode of access should give new users the opportunity to test Cirrus
 for their purposes and work towards a fully peer reviewed application,
-either via a standard grant or via
-Access to HPC calls. An extension will only be granted
+either via a standard grant or other routes. An extension will only be granted
 in exceptional cases.
 
 **Note:** Only one Pump Priming project is available to each person.
 
 ## Resources available
 
-You can apply for a maximum of 80,000 coreh over a six month period to test
+You can apply for a maximum of 200,000 coreh over a six month period to test
 the Cirrus service for your work.
 
 ## Application procedure
