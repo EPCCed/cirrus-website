@@ -15,15 +15,18 @@ The plot below shows the status of the CPU nodes on the current Cirrus service f
 
 A description of each of the status types is provided below the plot.
 
-### CPU
+### CPU Node State
 
 ![Cirrus Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_ex.png)
 
-- *alloc*: Nodes running user jobs
-- *idle*: Nodes available for user jobs
+- *alloc*, *mix*, *comp*, *drng*: Nodes running user jobs
+- *idle*, *plnd*: Nodes available for user jobs
 - *resv*: Nodes in reservation and not available for standard user jobs
-- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
-- *mix*: Nodes in multiple states 
+- *down*, *drain*, *maint*, *boot*: Nodes unavailable for user jobs
+
+### CPU Core Allocation
+
+![Cirrus Core Allocation graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_alloc_cpu_ex.png)
 
 ## Service Alerts
 
