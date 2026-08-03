@@ -1,7 +1,7 @@
 status = "Ongoing"
 type = "Service alert"
 start_date = 2026-08-03T13:24:36
-end_date = ""
+end_date = " "
 scope = "Compute"
 impact = "Users cannot submit new jobs in Cirrus. Existing work may continue as normal if already in progress, unless further impact is identified."
 reason = "An issue has been detected and is currently under investigation. As a precautionary measure, new work has been paused to prevent further risk while the root cause is being assessed."
