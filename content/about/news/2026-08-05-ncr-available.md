@@ -1,6 +1,6 @@
 ---
 layout: 'news'
-title: Cirrus - a UK National Compute Resource
+title: Expanded Cirrus available to users
 date: 2026-08-05T10:00:00
 ---
 
