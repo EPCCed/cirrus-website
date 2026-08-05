@@ -1,7 +1,7 @@
 ---
 layout: 'news'
 title: Expanded Cirrus available to users
-date: 2026-08-05T10:00:00
+date: 2026-08-04T10:00:00
 ---
 
 In March 2026 [UKRI](https://www.ukri.org) announced the first phase of UK
