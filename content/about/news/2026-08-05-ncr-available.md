@@ -1,27 +1,25 @@
 ---
 layout: 'news'
 title: Cirrus - a UK National Compute Resource
-date: 2026-03-09T14:00:00
+date: 2026-08-05T10:00:00
 ---
 
-[UKRI](https://www.ukri.org) recently announced the first phase of UK
+In March 2026 [UKRI](https://www.ukri.org) announced the first phase of UK
 National Compute Resources (NCR) that will provide high performance computing
 facilities (HPC) to support research across the country.
 
-Cirrus is one of the initial set of four NCRs and is the only one that is already up and
-running and supporting researchers. As part of the UKRI investment, Cirrus will
-be more than doubling in size over the next few months. Cirrus will
-compliment the announced next national supercomputer which, like Cirrus,
+Cirrus is one of the initial set of six NCRs and is the only one that is already up and
+running and supporting researchers. As part of the UKRI investment, Cirrus
+has more than doubled in size.
+
+The expansion added 384 standard memory nodes to the existing 256 nodes (192 standard
+memory and 64 high memory nodes) taking the system up to 640 compute nodes in total
+and 184,320 CPU cores all connected by HPE Cray Slingshot 11 interconnect. The new
+nodes are already available to Cirrus users.
+
+Cirrus compliments the announced next national supercomputer which, like Cirrus,
 will also be operated by
 [EPCC, the first UK National Supercomputing Centre](https://www.epcc.ed.ac.uk).
-
-The investment will add more compute nodes to Cirrus with the same
-dual CPU socket layout as the current nodes and, once complete, will take
-the total number of CPU cores available on Cirrus to over 150,000. We expect
-the additional Cirrus resources to be available to researchers by Autumn 2026.
-
-We will provide more concrete dates for the Cirrus expansion as soon as they
-are available.
 
 ## Related links
 
