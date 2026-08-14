@@ -1,7 +1,7 @@
-status = "Planned"
+status = "Resolved"
 type = "Service Alert"
 start_date = 2026-08-12T11:00:00
-end_date = 2026-08-14T10:00:00
+end_date = 2026-08-13T22:00:00
 scope = "Compute nodes"
 impact = "Possibility of intermittently longer queue times and reduced node availability"
 reason = "A number of compute nodes will be removed from service to ensure cooling is adequate as higher temperatures are forecast in the Edinburgh area. We apologise for the inconvenience caused by longer queue times."
