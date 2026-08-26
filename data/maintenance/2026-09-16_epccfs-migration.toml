@@ -1,0 +1,8 @@
+status = "Planned"
+type = "Full"
+start_date = 2026-09-16T09:00:00
+end_date = 2026-09-16T16:00:00
+quarter = "Q3 2026"
+scope = "Login and compute nodes"
+impact = "No login access to Cirrus, no jobs running, all queued jobs will be deleted"
+reason = "Migration from /work to new /epccfs storage. See <a href='https://docs.cirrus.ac.uk/epccfs-migration-2026/'>EPCCfs storage migration</a>"
