@@ -1,7 +1,7 @@
-status = "Ongoing"
+status = "Resolved"
 type = "Service Alert"
 start_date = 2026-09-04T10:00:00
-end_date = 2026-09-04T18:00:00
+end_date = 2026-09-04T16:00:00
 scope = "Update of slurm on servers and computes"
 impact = "There will be some short periods where new jobs will not start"
 reason = "Slurm node config updates and maintenance"
