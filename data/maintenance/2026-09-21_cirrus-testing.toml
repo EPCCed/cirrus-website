@@ -1,0 +1,8 @@
+status = "Planned"
+type = "Full"
+start_date = 2026-09-21T09:00:00
+end_date = 2026-09-24T09:00:00
+quarter = "Q3 2026"
+scope = "Compute nodes"
+impact = "Compute nodes not available, queued jobs will wait until they are available, login access available"
+reason = "Final testing of the Cirrus compute node hardware"
