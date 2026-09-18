@@ -4,7 +4,7 @@ title: UKRI Grant/Fellowship Access
 summary: Adding Cirrus access to research grants/fellowships
 ---
 
-You can include Cirrus on UKRI funding applications when you are applying for funding (if you already have an active grant then you should consider applying via one of the calls for Cirrus time only that are described on our [Access page](../)).
+You can include Cirrus on UKRI funding applications when you are applying for funding (if you already have an active grant then you should consider using existing grant funds to pay for access via the [General Academic Access route](general-eidf.md)).
 
 ## Resource Available
 
@@ -31,5 +31,7 @@ When submitting proposals to UKRI that include Cirrus resources on the UKRI Fund
 awarded for the duration of the UKRI funding. 
    - Cirrus notional cost for UKRI Grant/Fellowship proposals : &pound;0.00376 per coreh
 - Confirmation of facility agreement: This is a completed [Technical Assessment Form](../Cirrus-TA-Grant-form.docx) prior to submission.  Should an application be funded then grant funding would not be released until UKRI have had sight of the relevant TA, as provided by the facility. 
+
+Note: for UKRI access, the cost is *notional* and should not be included in the project budget - filling in the "Facilities" section as described above is all that is needed.
 
 
