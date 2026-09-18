@@ -1,7 +1,7 @@
-status = "Planned"
+status = "Completed"
 type = "Full"
 start_date = 2026-09-16T09:00:00
-end_date = 2026-09-16T16:00:00
+end_date = 2026-09-16T10:00:00
 quarter = "Q3 2026"
 scope = "Login and compute nodes"
 impact = "No login access to Cirrus, no jobs running, all queued jobs will be deleted"
