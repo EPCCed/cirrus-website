@@ -10,7 +10,7 @@ The Service Desk is the first point of contact for all questions relating
 to the Cirrus facility.
 
 Support is available Monday to Friday from
-08:30 until 18:00, excluding UK public holidays.
+08:30 until 18:00, excluding UK public holidays and University holidays.
 
 The Service Desk can be reached by e-mail [support@cirrus.ac.uk](mailto:support@cirrus.ac.uk).
 
