@@ -1,0 +1,7 @@
+status = "Ongoing"
+type = "Service Alert"
+start_date = 2026-10-15T08:00:00
+end_date = 2026-10-19T08:00:00
+scope = "Login and compute nodes"
+impact = "Users logged in when login nodes are rebooted may be requested to log in again on 15 and 16 October (they will be able to do so immediately). No other impact expected as compute nodes rolling reboot as they finish running work."
+reason = "Essential operating system updates to all Cirrus nodes."
