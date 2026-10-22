@@ -1,0 +1,7 @@
+status = "Ongoing"
+type = "Issue"
+start_date = 2026-11-22T17:50:00
+end_date = " "
+scope = "Login access"
+impact = "Users are currently unable to log on to Cirrus - an error message relating to 'Error connecting to MFA endpoint' is displayed."
+reason = "Our team are investigating."
