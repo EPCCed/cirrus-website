@@ -15,7 +15,7 @@ The plot below shows the status of the CPU nodes on the current Cirrus service f
 
 A description of each of the status types is provided below the plot.
 
-### CPU Node State
+### Node State
 
 ![Cirrus Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_ex.png)
 
@@ -24,9 +24,13 @@ A description of each of the status types is provided below the plot.
 - *resv*: Nodes in reservation and not available for standard user jobs
 - *down*, *drain*, *maint*, *boot*: Nodes unavailable for user jobs
 
-### CPU Core Allocation
+<!--
+
+### Core Allocation
 
 ![Cirrus Core Allocation graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_alloc_cpu_ex.png)
+
+-->
 
 ## Service Alerts
 
