@@ -4,4 +4,4 @@ start_date = 2026-10-22T17:50:00
 end_date = 2026-10-27T11:50:00
 scope = "Login access still 'At Risk'"
 impact = "Users were unable to log on to Cirrus - an error message relating to 'Error connecting to MFA endpoint' is displayed. A temporary workaround has been put in place."
-reason = "Our team are investigating."
+reason = "Issue resolved by University Information Services."
