@@ -13,6 +13,12 @@ in exceptional cases.
 
 **Note:** Only one Pump Priming project is available to each person.
 
+## Eligibility
+
+To lead an application for Cirrus academic access, you usually need to meet the [Individual eligibility criteria from UKRI](https://www.ukri.org/apply-for-funding/before-you-apply/individual-eligibility/).
+
+If you have questions on eligibility, then please [contact the Cirrus service desk](mailto:support@cirrus.ac.uk).
+
 ## Resources available
 
 You can apply for a maximum of 200,000 coreh over a six month period to test

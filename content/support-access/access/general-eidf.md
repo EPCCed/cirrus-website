@@ -7,6 +7,8 @@ summary: Access to use Cirrus for your research
 Any academic researcher can get access to Cirrus via the
 [Edinburgh International Data Facility](https://edinburgh-international-data-facility.ed.ac.uk/).
 
+If you have questions on eligibility, then please [contact the Cirrus service desk](mailto:support@cirrus.ac.uk).
+
 ## Resources available
 
 This access route is flexible in terms of the amount of resource that can be applied for. Any

@@ -6,6 +6,12 @@ summary: Adding Cirrus access to research grants/fellowships
 
 You can include Cirrus on UKRI funding applications when you are applying for funding (if you already have an active grant then you should consider using existing grant funds to pay for access via the [General Academic Access route](general-eidf.md)).
 
+## Eligibility
+
+To lead an application for Cirrus academic access, you usually need to meet the [Individual eligibility criteria from UKRI](https://www.ukri.org/apply-for-funding/before-you-apply/individual-eligibility/).
+
+If you have questions on eligibility, then please [contact the Cirrus service desk](mailto:support@cirrus.ac.uk).
+
 ## Resource Available
 
 Any reasonable resource request is possible on Cirrus. Please contact the [Cirrus Service Desk](../../user-support/) to discuss if you have concerns or questions about the amount of resource you wish to apply for.

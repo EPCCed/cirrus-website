@@ -24,12 +24,12 @@ For researchers who need access to larger amounts of resource, the UKRI grant ac
 General Academic Access (via EIDF) routes are more suitable.
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
-| Access Route | Availability | Notes |
+| Access Route | Availability | Application lead eligibility |  Notes |
 |---|---|---|
-| [Pump Priming](pump-priming/) | Any research area | Quick turnaround (1-2 weeks), 6 month research group access, 200,000 coreh max. |
-| [Driving Test](driving-test/) | Any research area | Quick turnaround (1-2 weeks), 12 month access individual access, 20,000 coreh max. |
-| [UKRI Grant/Fellowship Access](ukri-grant/) | Any research area | Long turnaround (3-6 months), flexible access length and resources |
-| [General Academic Access (via EIDF)](general-eidf/) | Any research area | Fast turnaround (<1 week if requested with a purchase order), flexible access length and resources |
+| [Pump Priming](pump-priming/) | Any research area | [Individual eligibility criteria from UKRI](https://www.ukri.org/apply-for-funding/before-you-apply/individual-eligibility/) | Quick turnaround (1-2 weeks), 6 month research group access, 200,000 coreh max. |
+| [Driving Test](driving-test/) | Any research area | Any UK-based academic researcher | Quick turnaround (1-2 weeks), 12 month access individual access, 20,000 coreh max. |
+| [UKRI Grant/Fellowship Access](ukri-grant/) | Any research area | [Individual eligibility criteria from UKRI](https://www.ukri.org/apply-for-funding/before-you-apply/individual-eligibility/) | Long turnaround (3-6 months), flexible access length and resources |
+| [General Academic Access (via EIDF)](general-eidf/) | Any research area | Any academic researcher | Fast turnaround (<1 week if requested with a purchase order), flexible access length and resources |
 {{< /bootstrap-table >}}
 
 ## Resource Units
