@@ -27,10 +27,7 @@ Storage is provided via two file systems:
 
 * 1 PB Ceph distributed file system for critical data storage. Mounted on all login nodes (not available
   on compute nodes). Not backed up.
-* 1 PB HPE E1000 ClusterStor Lustre parallel file system provides
-  high performance data access with high capacity. Mounted on all login and compute nodes. Not backed up.
-
-The default striping on the Lustre filesystem is 1 stripe, and the default stripe size is 1 MiB.
+* NAIDIN (EPCCFS) storage provides high-performance and high-capacity data storage. Mounted on all login and compute nodes. Not backed up.
 
 More detailed information is available in [the Hardware section of the User Guide](https://docs.cirrus.ac.uk/user-guide/hardware/).
 
