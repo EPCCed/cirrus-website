@@ -6,10 +6,12 @@ summary: Pump-priming access to test Cirrus for your research
 
 As a pump priming opportunity for new users, Cirrus offers
 access to Cirrus for a limited number of coreh over a six month period.
-This mode of access should give new users the opportunity to test Cirrus
-for their purposes and work towards a fully peer reviewed application,
-either via a standard grant or other routes. An extension will only be granted
-in exceptional cases.
+
+Applications should meet the following criteria:
+
+- There must be clear evidence that the resources are being used to prepare for a potential full access application via the [UKRI Grant](ukri-grant/) or [General academic](general-eidf/) access routes
+
+Extensions will only be granted in exceptional cases.
 
 **Note:** Only one Pump Priming project is available to each person.
 
