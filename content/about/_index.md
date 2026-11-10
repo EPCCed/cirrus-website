@@ -14,7 +14,7 @@ You should also tag outputs with the keyword Cirrus@EPCC.
 
 ## Technology
 
-The facility is based around a 256 node HPE Cray EX400 supercomputing system. High level information
+The facility is based around a 640 node HPE Cray EX4000 supercomputing system. High level information
 on the hardware and software is available at:
 
   - [Cirrus Hardware and Software](hardware-software/)
