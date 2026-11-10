@@ -26,7 +26,7 @@ project management is available at:
 
 - [SAFE Documentation](https://epcced.github.io/safe-docs/)
 
-## Historical documentation
+## Historical documentation
 
 - [2015-2025: Cirrus ICE XA Service Documentation (ceased operation on 8 December 2025)](https://github.com/EPCCed/legacy-cirrus-docs.git)
 
