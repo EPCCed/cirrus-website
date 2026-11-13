@@ -1,7 +1,7 @@
 status = "Ongoing"
 type = "Service Alert"
 start_date = 2026-11-13T07:00:00
-end_date = 
+end_date = 2026-11-13T18:00:00
 scope = "Service desk - email disruption"
 impact = "Emails to and from the Service Desk face disruption and delay"
-reason = "Microsoft 365 ongoing issues."
+reason = "Microsoft O365 ongoing issues."
