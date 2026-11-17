@@ -1,0 +1,7 @@
+status = "Planned"
+type = "Service Alert"
+start_date = 2026-11-23T09:00:00
+end_date = 2026-11-23T16:00:00
+scope = "Slurm scheduler"
+impact = "Change in low priority QoS limits, potential short interruptions to Slurm."
+reason = "Updating the low priority QoS limits."
