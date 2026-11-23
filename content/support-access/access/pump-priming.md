@@ -9,6 +9,7 @@ access to Cirrus for a limited number of coreh over a six month period.
 
 Applications should meet the following criteria:
 
+- Existing users of Cirrus are not eligible for Pump Priming access
 - There must be clear evidence that the resources are being used to prepare for a potential full access application via the [UKRI Grant](../ukri-grant/) or [General academic](../general-eidf/) access routes
 
 Extensions will only be granted in exceptional cases.
