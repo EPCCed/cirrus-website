@@ -1,0 +1,7 @@
+status = "Ongoing"
+type = "Service Alert"
+start_date = 2026-11-24T11:56:00
+end_date = 2026-11-24T17:00:00
+scope = "Cooling"
+impact = "New work has been temporarily paused on Cirrus."
+reason = "Investigating issues with the cooling system."
